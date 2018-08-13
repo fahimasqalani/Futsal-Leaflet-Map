@@ -1,0 +1,37 @@
+[
+  {
+    "id":919,
+    "name": "Samba De Futsal Petaling Jaya",
+    "price": 199.10,
+    "latitude": 3.10667,
+    "longitude": 101.60833
+  },
+  {
+    "id":918,
+    "name": "Sports Garage",
+    "price": 199.10,
+    "latitude": 3.11,
+    "longitude": 101.63
+  },
+  {
+    "id":912,
+    "name": "Taman Mayang Jaya Futsal Court",
+    "price": 199.10,
+    "latitude": 3.1,
+    "longitude": 101.6
+  },
+  {
+    "id":913,
+    "name": "Futsal Sports Planet Klang (Pandamaran)",
+    "price": 199.10,
+    "latitude": 3.014571,
+    "longitude": 101.415754
+  },
+  {
+    "id":914,
+    "name": "Salas Futsal",
+    "price": 199.10,
+    "latitude": 2.945500,
+    "longitude": 101.789710
+  }
+]
